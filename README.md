@@ -8,6 +8,24 @@ This Python script is a simple interactive dice roller that simulates rolling a 
 -  Displays each roll as an ASCII representation of the dice face.
 -  Prompts the user to roll again after each roll. 
 
+## Example :
+```
+Roll the dice? (y/n): y
+                ┌───────┐
+                │       │
+                │   •   │
+                │       │
+                └───────┘
+Roll again? (y/n): y
+                ┌───────┐
+                │ •     │
+                │       │
+                │     • │
+                └───────┘
+Roll again? (y/n): n
+
+```
+
 ## How to Use:
 
 1. **Save the code:** Save the code provided in this repository as a `.py` file (e.g., `dice_roller.py`).
